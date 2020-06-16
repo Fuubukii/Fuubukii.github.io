@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 email:
 description: " 寒鸦此去不重来 "
 url: "http://fuubukii.github.io"          # your host, for absolute URL
-keyword: "漫画,读书,语言,旅行,设计"
+keyword: ""
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/fuubukii/fuubukii.github.io.git" # you code repository
 
@@ -64,9 +64,9 @@ gitalk:
   enable: false    #是否开启Gitalk评论
   clientID:                             #生成的clientID
   clientSecret:     #生成的clientSecret
-  repo:     #仓库名称
-  owner:     #github用户名
-  admin: 
+  repo: fuubukii.github.io    #仓库名称
+  owner: fuubukii    #github用户名
+  admin: fuubukii
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
